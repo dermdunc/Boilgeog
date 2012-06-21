@@ -1,0 +1,15 @@
+﻿<flash_project name="minimalist" version="1">
+    <project_folder name="controller" expanded="true">
+        <project_file path=".:controller/StartupCommand.as" filetype="as" />
+        <project_file path=".:controller/StoreKeyCommand.as" filetype="as" />
+    </project_folder>
+    <project_folder name="view" expanded="true">
+        <project_file path=".:view/StageMediator.as" filetype="as" />
+    </project_folder>
+    <project_folder name="model" expanded="true">
+        <project_file path=".:model/KeyDataProxy.as" filetype="as" />
+    </project_folder>
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:minimalist.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:ApplicationFacade.as" filetype="as" />
+</flash_project>
